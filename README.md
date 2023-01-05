@@ -9,3 +9,4 @@ This is my first Repository
 :pizza:
 :coffee:
 :smile:
+This is new line
